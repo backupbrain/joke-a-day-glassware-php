@@ -1,0 +1,24 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+figure {
+	margin: 0px;
+	padding: 0px;
+}
+
+.note {
+	border: 1px solid #666;
+	background: #F8FAD9;
+	padding: 10px;
+	margin: 10px 0px;
+}
+
+.left {
+	float: left;
+	width: 128px;
+}
+.right {
+	margin-left: 128px;
+}
